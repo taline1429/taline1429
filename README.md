@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taline1429
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning data Science
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on GOOGLE
 - 📫 How to reach me taline1429@gmail.com
 
